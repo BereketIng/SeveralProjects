@@ -1,0 +1,7 @@
+c:\users\hp\documents\visual studio 2017\Projects\Test01\Test01\bin\Debug\netstandard1.4\Test01.deps.json
+c:\users\hp\documents\visual studio 2017\Projects\Test01\Test01\bin\Debug\netstandard1.4\Test01.dll
+c:\users\hp\documents\visual studio 2017\Projects\Test01\Test01\bin\Debug\netstandard1.4\Test01.pdb
+c:\users\hp\documents\visual studio 2017\Projects\Test01\Test01\obj\Debug\netstandard1.4\Test01.csprojResolveAssemblyReference.cache
+c:\users\hp\documents\visual studio 2017\Projects\Test01\Test01\obj\Debug\netstandard1.4\Test01.AssemblyInfo.cs
+c:\users\hp\documents\visual studio 2017\Projects\Test01\Test01\obj\Debug\netstandard1.4\Test01.dll
+c:\users\hp\documents\visual studio 2017\Projects\Test01\Test01\obj\Debug\netstandard1.4\Test01.pdb

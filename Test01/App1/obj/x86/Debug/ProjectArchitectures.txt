@@ -1,0 +1,1 @@
+c:\Users\HP\documents\visual studio 2017\Projects\Test01\App1\App1.csproj;x86
